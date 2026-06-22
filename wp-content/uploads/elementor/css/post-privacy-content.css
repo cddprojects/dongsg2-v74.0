@@ -1,0 +1,105 @@
+/* Privacy page: dark header text on light background */
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-4d5ba5fc {
+  --margin-bottom: 0px !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-4d5ba5fc,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-21e250fa {
+  background-color: #F4F9FA;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-14636335 .elementor-icon-list-text,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-14636335 .elementor-icon-list-icon i,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-a039064 .elementor-nav-menu--main .elementor-item,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-a039064 .elementor-nav-menu--dropdown .elementor-item {
+  color: #0C1726 !important;
+  fill: #0C1726 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-14636335 .elementor-icon-list-icon svg {
+  fill: #0C1726 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-7c02998 .elementskit-menu-container {
+  background-color: #F4F9FA !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-7c02998 .elementskit-navbar-nav > li > a {
+  color: #0C1726 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-7c02998 .elementskit-menu-hamburger {
+  background-color: #0C1726 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-7c02998 .elementskit-menu-hamburger .elementskit-menu-hamburger-icon {
+  background-color: #F4F9FA !important;
+}
+.privacy-policy-page .elementor-146 .elementor-menu-toggle svg {
+  fill: #0C1726 !important;
+}
+
+/* Header Apply Now button */
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-2306eb9a .elementor-button {
+  background-color: #0C1726 !important;
+  color: #F4F9FA !important;
+  fill: #F4F9FA !important;
+  border-color: #0C1726 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-2306eb9a .elementor-button:hover,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-2306eb9a .elementor-button:focus {
+  background-color: #4392F1 !important;
+  color: #F4F9FA !important;
+  fill: #F4F9FA !important;
+  border-color: #4392F1 !important;
+}
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-2306eb9a .elementor-button:hover svg,
+.privacy-policy-page .elementor-146 .elementor-element.elementor-element-2306eb9a .elementor-button:focus svg {
+  fill: #F4F9FA !important;
+}
+
+/* Main content */
+.privacy-policy-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 120px 20px 80px;
+  color: #0C1726;
+  font-family: "Epilogue", Sans-serif;
+}
+.privacy-policy-content h1 {
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 24px;
+  color: #0C1726;
+}
+.privacy-policy-content h2 {
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 32px 0 16px;
+  color: #0C1726;
+}
+.privacy-policy-content p {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #707070;
+  margin-bottom: 16px;
+}
+.privacy-policy-content ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 0 20px;
+}
+.privacy-policy-content ul li {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #707070;
+  margin-bottom: 12px;
+  padding-left: 28px;
+  position: relative;
+}
+.privacy-policy-content ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 10px;
+  height: 6px;
+  border-left: 2px solid #4392F1;
+  border-bottom: 2px solid #4392F1;
+  transform: rotate(-45deg);
+}

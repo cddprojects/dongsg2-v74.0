@@ -1,0 +1,1145 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Rinsure - Insurance Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Detail",
+            "screenshot": "screenshots\/case-detail.jpg",
+            "source": "templates\/case-detail.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/case-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Newsletter",
+            "screenshot": "screenshots\/metform-newsletter.jpg",
+            "source": "templates\/metform-newsletter.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/metform-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/ronie.foxcreation.net\/rinsure\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.21.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.1.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.7",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "happy-couple-signing-an-agreement-on-a-meeting-wit-2023-11-27-05-13-55-SU3AQ22.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/happy-couple-signing-an-agreement-on-a-meeting-wit-2023-11-27-05-13-55-SU3AQ22-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 167036,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SU3AQ22"
+        },
+        {
+            "filename": "happy-young-couple-make-a-deal-with-their-personal-2023-11-27-04-53-33-WTS29A7.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/happy-young-couple-make-a-deal-with-their-personal-2023-11-27-04-53-33-WTS29A7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 226370,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WTS29A7"
+        },
+        {
+            "filename": "estate-agent-giving-house-and-keys-to-client-after-2023-11-27-05-25-43-CGNUM47.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/estate-agent-giving-house-and-keys-to-client-after-2023-11-27-05-25-43-CGNUM47-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                }
+            ],
+            "filesize": 154222,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CGNUM47"
+        },
+        {
+            "filename": "Untitled-1.jpginsurance-dealers-are-making-offers-to-customers-w-2023-11-27-05-28-40-2CFCN2U.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/Untitled-1.jpginsurance-dealers-are-making-offers-to-customers-w-2023-11-27-05-28-40-2CFCN2U-800x933.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 122234,
+            "dimensions": [
+                1280,
+                1493
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2CFCN2U"
+        },
+        {
+            "filename": "happy-couple-about-o-sign-a-contract-with-insuranc-2023-11-27-05-16-57-W23FAPH.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/happy-couple-about-o-sign-a-contract-with-insuranc-2023-11-27-05-16-57-W23FAPH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 209903,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W23FAPH"
+        },
+        {
+            "filename": "a-happy-and-loving-family-a-cropped-portrait-of-a-2023-11-27-04-50-32-2AYG3X3.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/a-happy-and-loving-family-a-cropped-portrait-of-a-2023-11-27-04-50-32-2AYG3X3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                }
+            ],
+            "filesize": 162022,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2AYG3X3"
+        },
+        {
+            "filename": "logo-ipsum-01.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 11207,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo-ipsum-02.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 9655,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo-ipsum-03.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 9460,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo-ipsum-04.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 10944,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo-ipsum-05.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 12448,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo-ipsum-06.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/logo-ipsum-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 9395,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "at-home-in-the-corporate-workplace-2023-11-27-04-55-22-THUL4JQ.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/at-home-in-the-corporate-workplace-2023-11-27-04-55-22-THUL4JQ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 123765,
+            "dimensions": [
+                1080,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-THUL4JQ"
+        },
+        {
+            "filename": "if-you-want-something-done-right-ask-her-to-do-it-2023-11-27-05-15-08-E3YQHHK.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/if-you-want-something-done-right-ask-her-to-do-it-2023-11-27-05-15-08-E3YQHHK-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93222,
+            "dimensions": [
+                1080,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E3YQHHK"
+        },
+        {
+            "filename": "handsome-young-businessman-2023-11-27-05-28-50-EPT6PBJ.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/handsome-young-businessman-2023-11-27-05-28-50-EPT6PBJ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 96911,
+            "dimensions": [
+                1080,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EPT6PBJ"
+        },
+        {
+            "filename": "i-work-hard-for-what-i-want-portrait-of-a-young-b-2023-11-27-05-06-49-9FAC4BE.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/i-work-hard-for-what-i-want-portrait-of-a-young-b-2023-11-27-05-06-49-9FAC4BE-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 129580,
+            "dimensions": [
+                1080,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9FAC4BE"
+        },
+        {
+            "filename": "happy-couple-handshaking-with-insurance-agent-whil-2023-11-27-05-35-59-YGTQ7RZ.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/04\/happy-couple-handshaking-with-insurance-agent-whil-2023-11-27-05-35-59-YGTQ7RZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 184907,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGTQ7RZ"
+        },
+        {
+            "filename": "happy-insurance-agent-talking-to-young-couple-at-t-2023-11-27-05-30-34-4W4SPGD.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/happy-insurance-agent-talking-to-young-couple-at-t-2023-11-27-05-30-34-4W4SPGD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 169712,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4W4SPGD"
+        },
+        {
+            "filename": "thats-a-great-idea-2024-04-24-17-57-24-YV9SLB4.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/thats-a-great-idea-2024-04-24-17-57-24-YV9SLB4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 142622,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9SLB4"
+        },
+        {
+            "filename": "young-woman-successfully-signs-a-contract-with-a-b-2023-11-27-05-18-31-2KNG7J3.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/young-woman-successfully-signs-a-contract-with-a-b-2023-11-27-05-18-31-2KNG7J3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 184728,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2KNG7J3"
+        },
+        {
+            "filename": "beautiful-business-couple-working-2023-11-27-05-04-43-46G3MJ6.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/beautiful-business-couple-working-2023-11-27-05-04-43-46G3MJ6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 220709,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-46G3MJ6"
+        },
+        {
+            "filename": "insurance-and-sales-2023-11-27-04-55-48-CRCCEKJ.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/insurance-and-sales-2023-11-27-04-55-48-CRCCEKJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                }
+            ],
+            "filesize": 128434,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CRCCEKJ"
+        },
+        {
+            "filename": "concept-of-housing-for-young-family-2023-11-27-05-13-45-U3K5RRA.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/concept-of-housing-for-young-family-2023-11-27-05-13-45-U3K5RRA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 250200,
+            "dimensions": [
+                1690,
+                1127
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U3K5RRA"
+        },
+        {
+            "filename": "happy-black-spouses-showing-passports-posing-with-2023-11-27-05-10-07-CVD3PNK.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/happy-black-spouses-showing-passports-posing-with-2023-11-27-05-10-07-CVD3PNK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 162742,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CVD3PNK"
+        },
+        {
+            "filename": "stethoscope-and-calculator-placed-on-health-insura-2024-03-14-16-51-51-KYA7R6A.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/stethoscope-and-calculator-placed-on-health-insura-2024-03-14-16-51-51-KYA7R6A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 124335,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KYA7R6A"
+        },
+        {
+            "filename": "mother-father-and-little-son-are-waiting-for-elec-2023-11-29-04-32-50-C5TFJ8N.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/mother-father-and-little-son-are-waiting-for-elec-2023-11-29-04-32-50-C5TFJ8N-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 296712,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C5TFJ8N"
+        },
+        {
+            "filename": "contract-and-certificate-of-health-insurance-with-2023-11-27-04-52-19-HFLJ9D7.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/contract-and-certificate-of-health-insurance-with-2023-11-27-04-52-19-HFLJ9D7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 155515,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HFLJ9D7"
+        },
+        {
+            "filename": "portrait-of-smiling-mature-couple-standing-in-fron-2023-11-27-05-26-09-4C7GB5A.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/portrait-of-smiling-mature-couple-standing-in-fron-2023-11-27-05-26-09-4C7GB5A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 242180,
+            "dimensions": [
+                1728,
+                1152
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4C7GB5A"
+        },
+        {
+            "filename": "real-estate-agents-explain-models-of-housing-estat-2023-11-27-05-25-24-J3TMA85.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/real-estate-agents-explain-models-of-housing-estat-2023-11-27-05-25-24-J3TMA85-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/case-detail.json",
+                    "name": "Case Detail"
+                }
+            ],
+            "filesize": 107751,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J3TMA85"
+        },
+        {
+            "filename": "black-female-doctor-going-through-medical-reports-2023-11-27-05-10-58-VXYY5ET.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/black-female-doctor-going-through-medical-reports-2023-11-27-05-10-58-VXYY5ET-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 169819,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VXYY5ET"
+        },
+        {
+            "filename": "the-best-weve-ever-seen-shot-of-a-mature-couple-m-2023-11-27-05-35-01-DJGFSU9.jpg",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/the-best-weve-ever-seen-shot-of-a-mature-couple-m-2023-11-27-05-35-01-DJGFSU9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 201289,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DJGFSU9"
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/404-800x367.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 30235,
+            "dimensions": [
+                1920,
+                880
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "RInsure-Logo-02.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/RInsure-Logo-02-800x240.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 9638,
+            "dimensions": [
+                1000,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "RInsure-Logo-01.png",
+            "thumbnail_url": "https:\/\/ronie.foxcreation.net\/rinsure\/wp-content\/uploads\/sites\/6\/2024\/05\/RInsure-Logo-01-800x240.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 9642,
+            "dimensions": [
+                1000,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
