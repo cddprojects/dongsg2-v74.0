@@ -3,16 +3,10 @@ DirectoryIndex index.html
 <IfModule mod_rewrite.c>
 RewriteEngine On
 
-# Canonical URLs use trailing slash (matches nginx/Plesk DirectorySlash)
-RewriteRule ^privacy-policy$ /privacy-policy/ [R=301,L]
-RewriteRule ^thank-you$ /thank-you/ [R=301,L]
+# Serve subpages internally only (no external redirects — avoids nginx/Plesk loops)
+RewriteRule ^privacy-policy/?$ privacy-policy/index.html [L]
+RewriteRule ^thank-you/?$ thank-you/index.html [L]
 
-# Serve folder index files
-RewriteRule ^privacy-policy/$ privacy-policy/index.html [L]
-RewriteRule ^thank-you/$ thank-you/index.html [L]
-
-# Redirect visible index.html URLs to clean paths
+# Redirect root index.html only
 RewriteRule ^index\.html$ / [R=301,L]
-RewriteRule ^privacy-policy/index\.html$ /privacy-policy/ [R=301,L]
-RewriteRule ^thank-you/index\.html$ /thank-you/ [R=301,L]
 </IfModule>
