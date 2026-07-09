@@ -184,6 +184,41 @@ html, body {
 }
 #job .job-card-cta:hover { background: #2b7ad9; color: #ffffff; }
 #job .job-grid-disclaimer { text-align: center; font-size: 13px; margin-top: 28px; font-style: italic; color: #505a66; }
+/* Hot Job card variant */
+#job .job-card--hot {
+	position: relative;
+	border-color: #ff6b35;
+	background: linear-gradient(160deg, #fff9f6 0%, #ffffff 55%);
+	box-shadow: 0 10px 30px rgba(255, 107, 53, 0.18);
+}
+#job .job-card--hot:hover {
+	transform: translateY(-3px);
+	box-shadow: 0 16px 40px rgba(255, 107, 53, 0.28);
+}
+#job .job-card--hot .job-card-pay {
+	background: linear-gradient(90deg, #ff6b35, #ff4757);
+}
+#job .job-card--hot .job-card-cta {
+	background: linear-gradient(90deg, #ff6b35, #ff4757);
+}
+#job .job-card--hot .job-card-cta:hover {
+	background: linear-gradient(90deg, #e85e2c, #e03a48);
+}
+#job .job-card--hot .job-card-bullets li::before {
+	background: #ff6b35;
+}
+#job .job-card-badge {
+	display: inline-flex; align-items: center; gap: 4px;
+	font-size: 11px; font-weight: 700; letter-spacing: 0.05em;
+	padding: 4px 10px; border-radius: 20px;
+	text-transform: uppercase; margin-bottom: 10px;
+	width: fit-content;
+}
+#job .job-card-badge--hot {
+	background: linear-gradient(90deg, #ff6b35, #ff4757);
+	color: #ffffff;
+	box-shadow: 0 3px 10px rgba(255, 71, 87, 0.35);
+}
 @media (max-width: 980px) {
 	#job .job-grid { grid-template-columns: repeat(2, 1fr); gap: 18px; }
 }
@@ -538,6 +573,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p class="job-card-pay">From $15–20/hr</p>
 					<p class="job-card-desc">Support food merchants on delivery platforms — process orders, reply to buyer messages, and update menu listings. Templates and SOPs provided.</p>
 					<ul class="job-card-bullets"><li>Smartphone or laptop</li><li>Follow simple SOPs</li></ul>
+					<a class="job-card-cta" href="#apply">Apply Now</a>
+				</article>
+				<article class="job-card job-card--hot" role="listitem">
+					<div class="job-card-badge job-card-badge--hot">&#x1F525; Hot Job</div>
+					<div class="job-card-tags"><span class="job-card-tag">Part-time</span><span class="job-card-tag">Entry-level</span><span class="job-card-tag">F&amp;B</span></div>
+					<h3 class="job-card-title">Food Promotion Assistant</h3>
+					<p class="job-card-pay">From $13–18/hr</p>
+					<p class="job-card-desc">Promote food products and brands at supermarkets, roadshows, and in-store events. Engage shoppers, demo products, and drive sales — training and materials provided.</p>
+					<ul class="job-card-bullets"><li>Outgoing &amp; friendly personality</li><li>Weekend availability preferred</li></ul>
 					<a class="job-card-cta" href="#apply">Apply Now</a>
 				</article>
 				<article class="job-card" role="listitem">
